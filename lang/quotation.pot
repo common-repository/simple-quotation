@@ -1,0 +1,225 @@
+Content-Transfer-Encoding: 8bit
+
+#: simple-quotation.php:133
+#@ quotation
+msgid "Couldn't drop the table %s because there is entries in it. Please merge the two tables %s and %s in a single table with name %s"
+msgstr ""
+
+#: simple-quotation.php:225
+#: simple-quotation.php:258
+#@ quotation
+msgid "An error occurs when updating the database."
+msgstr ""
+
+#: simple-quotation.php:227
+#@ quotation
+msgid "The quote has been added to the database."
+msgstr ""
+
+#: simple-quotation.php:260
+#@ quotation
+msgid "An error occurs when updating the database. Nevertheless %s sentences has been imported successfully."
+msgstr ""
+
+#: simple-quotation.php:263
+#@ quotation
+msgid "%s quotes have been added to the database."
+msgstr ""
+
+#: simple-quotation.php:303
+#@ quotation
+msgid "Author"
+msgstr ""
+
+#: simple-quotation.php:303
+#: simple-quotation.php:361
+#@ quotation
+msgid "Quotes"
+msgstr ""
+
+#: simple-quotation.php:323
+#@ quotation
+msgid "Modify"
+msgstr ""
+
+#: simple-quotation.php:324
+#@ quotation
+msgid "Delete"
+msgstr ""
+
+#: simple-quotation.php:334
+#@ quotation
+msgid "Author:"
+msgstr ""
+
+#: simple-quotation.php:336
+#@ quotation
+msgid "Quote:"
+msgstr ""
+
+#: simple-quotation.php:339
+#@ quotation
+msgid "Add the quote"
+msgstr ""
+
+#: simple-quotation.php:343
+#@ quotation
+msgid "Add a new quote"
+msgstr ""
+
+#: simple-quotation.php:349
+#@ quotation
+msgid "The file should be a UTF-8 text file which contains 2 lines per entry (one for the quote, and one for the author)."
+msgstr ""
+
+#: simple-quotation.php:350
+#@ quotation
+msgid "Select the file:"
+msgstr ""
+
+#: simple-quotation.php:353
+#@ quotation
+msgid "Import the file"
+msgstr ""
+
+#: simple-quotation.php:354
+#@ quotation
+msgid "Export the quotes"
+msgstr ""
+
+#: simple-quotation.php:358
+#@ quotation
+msgid "Import/Export multiple quotes"
+msgstr ""
+
+#: simple-quotation.php:365
+#@ quotation
+msgid "This plugin allows the display of random quotes on your frontpage."
+msgstr ""
+
+#: simple-quotation.php:366
+#@ quotation
+msgid "Purpose of that plugin"
+msgstr ""
+
+#: simple-quotation.php:368
+#@ quotation
+msgid "Just configure the position of the quotes in the configuration tab."
+msgstr ""
+
+#: simple-quotation.php:369
+#@ quotation
+msgid "How to display the quotes?"
+msgstr ""
+
+#: simple-quotation.php:371
+#@ quotation
+msgid "Customize your quotes in the quote tab and enjoy..."
+msgstr ""
+
+#: simple-quotation.php:372
+#@ quotation
+msgid "What quotes will be displayed?"
+msgstr ""
+
+#: simple-quotation.php:377
+#@ quotation
+msgid "How To"
+msgstr ""
+
+#: simple-quotation.php:382
+#@ quotation
+msgid "Here is the parameters of the plugin. Please modify them at your convenience."
+msgstr ""
+
+#: simple-quotation.php:385
+#@ quotation
+msgid "The quote will be displayed:"
+msgstr ""
+
+#: simple-quotation.php:386
+#@ quotation
+msgid "In top of the page:"
+msgstr ""
+
+#: simple-quotation.php:387
+#@ quotation
+msgid "After this HTML tag in the page:"
+msgstr ""
+
+#: simple-quotation.php:388
+#@ quotation
+msgid "For instance, if you put %s, the quote will be printed AFTER the HTML tag %s"
+msgstr ""
+
+#: simple-quotation.php:388
+#: simple-quotation.php:390
+#@ quotation
+msgid "If this input is empty, it means that you do not want to print a quote at a custom location"
+msgstr ""
+
+#: simple-quotation.php:389
+#@ quotation
+msgid "Before this HTML tag in the page:"
+msgstr ""
+
+#: simple-quotation.php:390
+#@ quotation
+msgid "For instance, if you put %s, the quote will be printed BEFORE the HTML tag %s"
+msgstr ""
+
+#: simple-quotation.php:391
+#@ quotation
+msgid "How the quote will be displayed?"
+msgstr ""
+
+#: simple-quotation.php:392
+#@ quotation
+msgid "With this HTML code:"
+msgstr ""
+
+#: simple-quotation.php:393
+#@ quotation
+msgid "The standard HTML is:"
+msgstr ""
+
+#: simple-quotation.php:400
+#@ quotation
+msgid "The name of the author"
+msgstr ""
+
+#: simple-quotation.php:401
+#@ quotation
+msgid "The given quote"
+msgstr ""
+
+#: simple-quotation.php:403
+#@ quotation
+msgid "With this CSS style:"
+msgstr ""
+
+#: simple-quotation.php:404
+#@ quotation
+msgid "The standard CSS is:"
+msgstr ""
+
+#: simple-quotation.php:410
+#@ quotation
+msgid "Parameters"
+msgstr ""
+
+#: simple-quotation.php:416
+#@ quotation
+msgid "Manage translations"
+msgstr ""
+
+#: simple-quotation.php:422
+#@ quotation
+msgid "Give feedback"
+msgstr ""
+
+#: simple-quotation.php:427
+#@ quotation
+msgid "Other plugins"
+msgstr ""
+
